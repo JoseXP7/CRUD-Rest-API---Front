@@ -1,29 +1,25 @@
-# restapi-vuejs-todolist
+# CRUD API REST
 
-This template should help get you started developing with Vue 3 in Vite.
+Hecho con VueJS y AXIOS para las peticiones HTTP. Aplicación para guardar lenguajes de programación, simulando un To Do List
+## Autor
 
-## Recommended IDE Setup
+- [@josexp7](https://www.github.com/josexp7)
+## Correr localmente
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Instalar las dependencias
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```bash
+  npm install
 ```
 
-### Compile and Hot-Reload for Development
+Iniciar la app para desarrollo
 
-```sh
-npm run dev
+```bash
+  npm run dev
 ```
 
-### Compile and Minify for Production
+Compilar para producción
 
-```sh
-npm run build
+```bash
+  npm run build
 ```
